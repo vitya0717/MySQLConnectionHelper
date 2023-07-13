@@ -1,3 +1,2 @@
 # MySQLConnectionHelper
-MySQL Connection helper
-less code for connect to a database
+Less code for connect to a database
